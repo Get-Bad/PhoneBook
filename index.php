@@ -1,3 +1,4 @@
+<!-- jopa -->
 <!DOCTYPE html>
 <html lang="ru">
 <head>
@@ -60,7 +61,7 @@
 
 <!-- TABLE --> 
 
-  <table class="table table-striped" id="infoTable">
+<table class="table table-striped" id="infoTable" style="width: 70%;margin: auto;">
     <thead>
       <tr>
         <th scope="col">id</th>
