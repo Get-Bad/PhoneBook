@@ -1,4 +1,3 @@
-<!-- jopa -->
 <!DOCTYPE html>
 <html lang="ru">
 <head>
@@ -23,7 +22,7 @@
 <nav class="navbar bg-body-tertiary">
   <div class="container-fluid">
     <h5 class="navbar-brand">
-      Телефонный справочник
+      Тупое очко
     </h5>
   </div>
 </nav>
