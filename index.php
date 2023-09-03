@@ -22,7 +22,7 @@
 <nav class="navbar bg-body-tertiary">
   <div class="container-fluid">
     <h5 class="navbar-brand">
-      Тупое очко
+      Телефонный справочник
     </h5>
   </div>
 </nav>
@@ -61,7 +61,7 @@
 <!-- TABLE --> 
 
 <table class="table table-striped" id="infoTable" style="width: 70%;margin: auto;">
-    <thead>
+    <thead class="thead-dark">
       <tr>
         <th scope="col">id</th>
         <th scope="col">Организация</th>
